@@ -1,0 +1,22 @@
+{
+    "name": "lokto",
+    "short_name": "lokto",
+    "description": "",
+    "icons": [
+        {
+            "src": "lokto.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "lokto512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "orientation": "any"
+}

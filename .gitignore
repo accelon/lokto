@@ -1,0 +1,4 @@
+dist
+*.ptk
+raw
+node_modules
